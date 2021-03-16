@@ -1,0 +1,16 @@
+---
+title: "README"
+author: "Ben Deivide"
+date: "16/03/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Estudando o pacote Shiny
+
+## Postagens interessantes
+
+- <https://blog.rstudio.com/2021/03/15/mastering-shiny-with-appsilon-x-session-recordings-are-now-available/>
