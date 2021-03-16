@@ -1,8 +1,5 @@
 ---
-title: "README"
-author: "Ben Deivide"
-date: "16/03/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -10,6 +7,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Estudando o pacote Shiny
+
+Objetivo: Apresentar os princípios básicos do pacote [shiny](https://shiny.rstudio.com/)
+
+## Exemplos disponíveis
+
+- <https://github.com/rstudio/shiny-examples>
 
 ## Postagens interessantes
 
